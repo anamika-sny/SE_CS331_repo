@@ -1,0 +1,16 @@
+User need:
+1. Centralised platform to view and manage security alert from multiple security tools
+2. ⁠faster incident handling to reduce manual investigation time
+3. Automation for repetitive task such as alert triage, enrichment and basic response action
+4. ⁠predefined response workflow that is playbook for common incident like phishing, malware and suspicious ip activity 
+5. ⁠automated threat intelligence enrichment to understand alerts without manual lookups
+6. ⁠clear visibility of incident status and response action taken
+
+
+User expectations 
+1. Easy to use and intuitive interface with minimal learning effort
+2. ⁠accurate and reliable automation with reduced false positives
+3. ⁠real time alert notification and quick response execution
+4. ⁠ability to customise playbook and response rules
+5. ⁠secure access control with role based permission 
+6. ⁠audit logs and reports for tracking incident and compliance
