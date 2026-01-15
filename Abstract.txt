@@ -1,0 +1,7 @@
+This project focuses on Security Orchestration, Automation, and Response (SOAR) in the field of computer security.
+The project aims to study and design a system that can automatically detect, analyze, and respond to security incidents.
+The system collects security alerts from multiple tools such as SIEM, IDS/IPS, firewalls, and endpoint protection systems.
+Collected alerts are normalized, correlated, and converted into security incidents with defined life-cycle states.
+Automated response playbooks are executed to handle common security incidents and reduce manual effort.
+Manual approval is required for critical response actions to ensure safe and controlled operations.
+The system improves incident response time, increases operational efficiency, and supports secure and consistent security operations.
